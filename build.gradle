@@ -15,7 +15,7 @@ repositories {
 	maven { url = "https://maven.terraformersmc.com/" }
 	maven { url = "https://aperlambda.github.io/maven" }
 	maven { url = "https://hephaestus.dev/release" }
-	maven { url = "https://storage.googleapis.com/devan-maven/" }
+	maven { url = "https://maven.devtech.net/" }
 	maven { url = "https://api.modrinth.com/maven" }
 }
 
